@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [说明](README.md)
 * [DomeOS](domeos.md)
 
