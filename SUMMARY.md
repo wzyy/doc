@@ -1,6 +1,6 @@
 # Summary
 
 * [说明](README.md)
-* [DomeOS](domeos.md)
+* [背景资料](domeos.md)
    * 什么是docker
 
