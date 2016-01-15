@@ -2,4 +2,5 @@
 
 * [说明](README.md)
 * [DomeOS简介](domeos.md)
+* 功能详情
 
