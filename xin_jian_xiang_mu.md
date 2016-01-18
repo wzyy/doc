@@ -1,5 +1,7 @@
 # 新建项目
 
+
+
 登录DomeOS系统，左侧导航栏选择“项目管理”，然后点击左上的“创建新项目”。
 ![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject1.jpg)
 #关联代码仓库
