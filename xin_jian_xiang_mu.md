@@ -19,6 +19,8 @@
 若项目中未包含dockerfile，我们可以通过DomeOS前端简单的配置，填写配置一个新的dockerfile。
 根据需求填写需要的dockerfile的文件编译配置，示例如下：
 [](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject5.jpg)
+
 如有必要，可以在高级配置中填写运行时的环境变量：
 [](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+
 填写完必要的信息后，点击完成创建，我们就实现了新建一个项目。
