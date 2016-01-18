@@ -7,6 +7,4 @@
    * [新建项目](xin_jian_xiang_mu.md)
    * [项目构建](xiang_mu_gou_jian.md)
 * [asdsdad](asdsdad.md)
-* [scscscsc](scscscsc.md)
-   * rtrtrtrt
 
