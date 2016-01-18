@@ -7,5 +7,5 @@
    * [新建项目](xin_jian_xiang_mu.md)
    * [项目构建](xiang_mu_gou_jian.md)
    * [项目成员](xiang_mu_cheng_yuan.md)
-* [部署](部署.md)
+* [部署](bu_shu.md)
 
