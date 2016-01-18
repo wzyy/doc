@@ -32,3 +32,6 @@ DomeOS支持关联私有Gitlab账户。您需要点击“关联新账户”并�
 
 填写完必要的信息后，点击“完成创建”，就新建了一个项目。您可以在项目列表查看您的所有项目。
 ![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+
+您可以点击某项目的名称进入该项目的详情页，查看并管理项目。
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
