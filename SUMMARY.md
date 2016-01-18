@@ -6,6 +6,6 @@
 * [项目管理](jing_xiang_guan_li.md)
    * [新建项目](xin_jian_xiang_mu.md)
    * [项目构建](xiang_mu_gou_jian.md)
-   * 项目成员
+   * [项目成员](xiang_mu_cheng_yuan.md)
 * [asdsdad](asdsdad.md)
 
