@@ -11,8 +11,7 @@ DomeOS支持关联私有Gitlab账户。您需要点击“关联新账户”并�
 
 ##2. 持续集成
 在“自动构建”中指定代码项目的分支或tag，当代码仓库发生push操作的时候，您的项目会自动触发一次构建，保证项目镜像和代码源同步更新，实现持续集成。
-![](http://)
-
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject3.jpg)
 ##3. Dockerfile和构建运行相关配置
 项目需要有Dockerfile才能构建成可运行的镜像文件。您可以选择使用代码内的Dockerfile或在页面上配置一个Dockerfile。
 
