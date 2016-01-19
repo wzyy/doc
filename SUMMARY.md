@@ -11,5 +11,6 @@
    * [新建部署](xin_jian_bu_shu.md)
    * [升级/回滚](sheng_ji_hui_gun.md)
    * [扩容/缩容](kuo_rong_suo_rong.md)
+   * 事件记录
 * [监控](jian_kong.md)
 
