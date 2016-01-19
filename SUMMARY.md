@@ -12,6 +12,6 @@
    * [升级/回滚](sheng_ji_hui_gun.md)
    * [扩容/缩容](kuo_rong_suo_rong.md)
    * [事件记录](shi_jian_ji_lu.md)
-   * 容器日志和控制台
+   * [容器日志和控制台](rong_qi_ri_zhi_he_kong_zhi_tai.md)
 * [监控](jian_kong.md)
 
