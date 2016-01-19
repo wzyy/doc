@@ -8,7 +8,7 @@
    * [项目成员](xiang_mu_cheng_yuan.md)
 * [部署](bu_shu.md)
    * [新建部署](xin_jian_bu_shu.md)
-   * [升级/回滚](sheng_ji_hui_gun.md)
+   * [升级/回滚](升级回滚.md)
    * [扩容/缩容](扩容缩容.md)
 * [监控](监控)
 
