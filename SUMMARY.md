@@ -22,4 +22,5 @@
    * [非项目镜像](fei_xiang_mu_jing_xiang.md)
 * [集群管理](ji_qun_guan_li.md)
    * [新建集群](xin_jian_ji_qun.md)
+   * 集群详情和设置
 
