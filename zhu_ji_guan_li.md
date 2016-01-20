@@ -1,5 +1,5 @@
 # 主机管理
-
+---
 在集群的主机列表中点击某主机的主机名称，进入主机详情页面。
 ![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
 
