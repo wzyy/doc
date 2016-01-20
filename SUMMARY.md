@@ -14,6 +14,7 @@
    * [事件记录](shi_jian_ji_lu.md)
    * [容器日志和控制台](rong_qi_ri_zhi_he_kong_zhi_tai.md)
    * [有状态服务管理](you_zhuang_tai_fu_wu_bu_shu_guan_li.md)
+   * 部署成员
 * [监控](jian_kong.md)
 * [镜像管理](jing_xiang_cang_ku.md)
    * [基础镜像](ji_chu_jing_xiang.md)
