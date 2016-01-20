@@ -1,5 +1,5 @@
 # 系统安装及初始化
-
+---
 1. 如果您的私有仓库通过http访问，在第1步用Docker Hub官方镜象启动私有仓库，该私有仓库在您的Kubernetes集群外部。如果您的私有仓库通过https访问，需要在第4步安装Kubernetes时，通过Kubernetes启动私有仓库。
 
 2. 安装并启动etcd集群。详细步骤见etcd官方网站。
