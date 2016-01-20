@@ -1,5 +1,5 @@
 # 容器日志和控制台
-
+---
 您可以在“实例”页面里看到部署正在运行的实例。
 ![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
 
