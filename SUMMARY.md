@@ -3,7 +3,7 @@
 * [说明](README.md)
 * [DomeOS简介](domeos.md)
 * [系统安装及初始化](xi_tong_an_zhuang_ji_chu_shi_hua.md)
-   * 安装步骤
+   * [安装步骤](an_zhuang_bu_zou.md)
 * [用户登录](yong_hu_deng_lu.md)
 * [项目管理](jing_xiang_guan_li.md)
    * [新建项目](xin_jian_xiang_mu.md)
