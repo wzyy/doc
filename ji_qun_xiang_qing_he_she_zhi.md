@@ -1,5 +1,5 @@
 # 集群详情和设置
-
+---
 在集群管理页面点击某个集群的“管理”按钮，进入该集群的详情
 ![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
 
