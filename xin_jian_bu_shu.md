@@ -25,3 +25,5 @@
 8. 负载均衡：您可以选择开启负载均衡，开启后需要填写对外访问端口、程序服务端口和对外访问IP。
 完成所有配置后，点击“完成创建”，就可以创建您的服务了。
 ![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject27.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject28.jpg)
+
