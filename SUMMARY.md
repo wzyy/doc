@@ -27,5 +27,5 @@
    * [主机管理](zhu_ji_guan_li.md)
    * [集群成员](ji_qun_cheng_yuan.md)
 * [组管理](zu_guan_li.md)
-* 应用商店
+* [应用商店](ying_yong_shang_dian.md)
 
