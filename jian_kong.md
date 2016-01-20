@@ -3,16 +3,20 @@
 DomeOS提供容器和主机级别的多维度监控。您可以在监控页面查看部署或主机的运行状态。
 
 点击控制台左侧导航栏的“监控”，进入监控页。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
 
 在监控对象栏选择监控类型。监控类型有“主机”和“容器”。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject40.jpg)
 
 ##1. 主机监控
 监控类型选择“主机”，并选择希望查看的集群，监控对象栏最下方会出现该集群的主机列表。您可以通过选择主机标签和搜索关键字来筛选出希望查看的主机。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
 
-选中希望查看的主机，点击“刷新监控指标列表”，即可在右侧“监控指标”栏看到所有的监控指标。各项监控指标意义如下：
+选中希望查看的主机，点击“刷新监控指标列表”，即可在右侧“监控指标”栏看到所有的监控指标。
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject41.jpg)
+
+选中希望查看的监控指标，点击“看图”，选择一种视角，即可在新页面查看监控。
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject42.jpg)
+
+主机各项监控指标意义如下：
 
 | 监控指标 | 意义 | 说明 |
 | -- | -- | -- |
@@ -27,22 +31,22 @@ DomeOS提供容器和主机级别的多维度监控。您可以在监控页面�
 | net.if.in.bytes/iface=xx | 网络接收带宽 | 单位KB/s，iface为网卡 |
 | net.if.out.bytes/iface=xx | 网络发送带宽 | 单位KB/s，iface为网卡 |
 
-选中希望查看的监控指标，点击“看图”，选择一种视角，即可在新页面查看监控。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+
 
 ##2. 容器监控
 监控类型选择“容器”，并选择希望查看的集群和容器所在部署。监控对象栏最下方会出现该部署的实例列表。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
 
 选中希望查看的实例，此时您可以直接点击“刷新监控指标列表”，查看监控。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject43.jpg)
+
 
 如果您希望查看实例内部的容器监控，请在选中实例后点击“查看容器”，进入所选实例的容器列表。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject44.jpg)
 
 选中希望查看的容器，并点击“刷新监控指标列表”，在监控指标栏选中希望查看的指标，点击“看图”并选择视角，即可查看监控。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject45.jpg)
 
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject46.jpg)
 
 实例和容器的各项监控指标意义如下：
 
