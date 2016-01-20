@@ -14,13 +14,13 @@
    
    启动flannel后，需要重新启动Docker。
    
-   Kubernetes集群在启动服务端时，需要按顺序启动以下三个组件：api server、kube-controller-manager、kube-scheduler      
+   Kubernetes集群在启动服务端时，需要按顺序启动以下三个组件：api server、kube-controller-manager、kube-scheduler。在api server完全启动后，再启动后两个组件。      
    
    启动主机时，需要启动两个组件：kubelet和kube-proxy                            
    
    更详细的安装步骤详见Kubernetes官方网站。
 
-4. 配置skyDNS，kube2sky。DomeOS的公开镜像仓库中提供了两者的镜像。DomeOS提供安装两者的YAML文件，Kubeclient可以启动YAML文件，安装上述两者。
+4. 配置skyDNS，kube2sky。DomeOS的公开镜像仓库中提供了两者的镜像。DomeOS提供安装两者的YAML文件，Kubectl可以根据YAML文件创建两者。
 
 5. 启动MySQL，建议通过传统方式启动而非镜像启动。
 
