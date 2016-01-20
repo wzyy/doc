@@ -3,9 +3,9 @@
 应用商店提供了DomeOS集成的各种应用，您无需配置项目和构建就能直接选择应用并快速部署。应用商店的应用包含如ZooKeeper等有状态服务，如需部署有状态服务，请到应用商店选择并部署。
 
 点击控制台左侧导航栏的“应用商店”，进入应用商店。选择一个应用并点击“部署”。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject65.jpg)
 
 以ZooKeeper为例，点击“部署”后会进入部署配置页面，应用商店的部署对所有配置项都有默认设置，您可以直接点击“创建部署”。
-![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject6.jpg)
+![](http://881471b33d4f9.cdn.sohucs.com/q_mini/newproject66.jpg)
 
 完成部署后，您可以到“部署”模块查看并管理您的应用。
