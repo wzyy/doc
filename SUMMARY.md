@@ -25,5 +25,6 @@
    * [集群详情和设置](ji_qun_xiang_qing_he_she_zhi.md)
    * [添加主机](tian_jia_zhu_ji.md)
    * [主机管理](zhu_ji_guan_li.md)
+   * 集群成员
 * [组管理](zu_guan_li.md)
 
