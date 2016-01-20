@@ -2,6 +2,7 @@
 
 * [说明](README.md)
 * [DomeOS简介](domeos.md)
+* [全局配置](quan_ju_pei_zhi.md)
 * [用户登录](yong_hu_deng_lu.md)
 * [项目管理](jing_xiang_guan_li.md)
    * [新建项目](xin_jian_xiang_mu.md)
@@ -28,5 +29,4 @@
    * [集群成员](ji_qun_cheng_yuan.md)
 * [组管理](zu_guan_li.md)
 * [应用商店](ying_yong_shang_dian.md)
-* [全局配置](quan_ju_pei_zhi.md)
 
