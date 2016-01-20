@@ -18,5 +18,6 @@
 * [镜像管理](jing_xiang_cang_ku.md)
    * [基础镜像](ji_chu_jing_xiang.md)
    * [项目镜像](xiang_mu_jing_xiang.md)
+   * 非项目镜像
 * [集群管理](ji_qun_guan_li.md)
 
