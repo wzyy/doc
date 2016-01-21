@@ -30,8 +30,11 @@
    需要在每台主机上安装agent，每个agent需要配置一个transfer地址。agent镜像在DomeOS公开镜像仓库中提供。
    
    agent和监控四个组件的工作逻辑：
-   agent上报信息给transfer；transfer将信息传递给graph存储；query从graph里查询信息；dashboard把从query里查询的信息做图形化展示。
+   1. agent上报信息给transfer；
+   2. ransfer将信息传递给graph存储；
+   3. query从graph里查询信息；
+   4. dashboard把从query里查询的信息做图形化展示。
    
-   更多详细步骤见小米Open-Falcon官方文档
+    更多详细步骤见小米Open-Falcon官方文档
 
 7. 启动DomeOS server 。镜像由DomeOS公开镜像仓库提供。
