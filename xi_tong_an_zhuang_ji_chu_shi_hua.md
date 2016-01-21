@@ -4,7 +4,7 @@
 
 2. 安装并启动etcd集群。详细步骤见etcd官方网站。
 
-3. 给集群内的主机安装Docker。主机的hostname需要符合dns命名规则。每台主机需要配置私有仓库地址
+3. 给集群内的主机安装Docker。主机的hostname需要符合dns命名规则。每台主机需要连接到私有仓库
 
 4. 安装带flannel网络的Kubernetes集群：
 
